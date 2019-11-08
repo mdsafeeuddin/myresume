@@ -27,16 +27,29 @@
 		]
 	},
 	"work": [{
+		"company": "Jocata",
+		"position": "Business Analyst",
+		"website": "https://www.jocata.com/",
+		"startDate": "2019-09-01",
+		"endDate": "",
+		"summary": "Jocata Financial Advisory and Technology thrives to create a digital ecosystem of technologies that deliver adaptive solutions for financial institutions at high velocity and scale, driving business growth, streamlined operations, risk-adjusted insights and regulatory compliance.",
+		"highlights": [
+			"Facilitate in development and delivery of projects through effective communication of requirements, changes and testing results.",
+			"Build shared understanding of problems, outline the parameters of the project, and determine potential solutions",
+			"Intermediary between clients, developers, users, management, and information technology (IT)."
+		]
+	},
+	{
 			"company": "QBIKO IT Solutions",
 			"position": "Analyst",
 			"website": "http://maainfotek.com/",
 			"startDate": "2016-09-01",
-			"endDate": "2018-12-01",
-			"summary": "QBIKO IT Solutions (previously as MAA SERONA) is a software services company focused on helping drive value through IT investments by bringing the depth of domain knowledge, technology expertise and client commitment to deliver strategically new IT & healthcare solutions.",
+			"endDate": "2019-05-31",
+			"summary": "QBIKO IT Solutions (previously as MAA SERONA aka MAA infotek) is a software services company focused on helping drive value through IT investments by bringing the depth of domain knowledge, technology expertise and client commitment to deliver strategically new IT & healthcare solutions.",
 			"highlights": [
-				"Facilitate in development and delivery of projects through effective communication of requirements, changes and testing results.",
-				"Build shared understanding of problems, outline the parameters of the project, and determine potential solutions",
-				"Intermediary between clients, developers, users, management, and information technology (IT)."
+				"Developing technical solutions to healthcare problems, begins with defining, analyzing and documenting requirements. Managing requirements at the project level to fulfill cient needs.",
+				"Design and review test cases, process change requests, and manage a project’s scope, acceptance, installation and deployment.",
+				"Prioritize requirements and create conceptual prototypes and mock-ups."
 			]
 		},
 		{
