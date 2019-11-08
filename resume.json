@@ -1,0 +1,142 @@
+{
+	"basics": {
+		"name": "Mohammed Safee Uddin",
+		"label": "Analyst",
+		"picture": "safee.jpeg",
+		"email": "mdsafeeuddin@gmail.com",
+		"phone": "(91) 9700063704",
+		"website": "http://safeeuddin.netlify.com",
+		"summary": "Safee hails from Hyderabad. He has earned Certification in Data Science from the International Institute of Information Technology-Bangalore. Before starting at MAA Serona, he worked for Fortis Healthcare Ltd. as Operations Manager. His work was to act as a liasion between the clinical staff and the recepients of healthcare services, mostly implementing policies and managing medical and non-medical staff. His non-work interests range widely, from learning trends and changes in how healthcare is administered, improvement in patient access, improved revenues for health systems, lower costs, and much more.",
+		"location": {
+			"address": "19-4-340/68/1/B, Kishan Bagh",
+			"postalCode": "500064",
+			"city": "Hyderabad",
+			"countryCode": "India",
+			"region": "Telangana"
+		},
+		"profiles": [{
+				"network": "Facebook",
+				"username": "mdsafeeuddin",
+				"url": "https://www.facebook.com/mdsafeeuddin"
+			},
+			{
+				"network": "Linkedin",
+				"username": "Mohammed Safee Uddin",
+				"url": "https://www.linkedin.com/in/mdsafeeuddin/"
+			}
+		]
+	},
+	"work": [{
+			"company": "QBIKO IT Solutions",
+			"position": "Analyst",
+			"website": "http://maainfotek.com/",
+			"startDate": "2016-09-01",
+			"endDate": "2018-12-01",
+			"summary": "QBIKO IT Solutions (previously as MAA SERONA) is a software services company focused on helping drive value through IT investments by bringing the depth of domain knowledge, technology expertise and client commitment to deliver strategically new IT & healthcare solutions.",
+			"highlights": [
+				"Facilitate in development and delivery of projects through effective communication of requirements, changes and testing results.",
+				"Build shared understanding of problems, outline the parameters of the project, and determine potential solutions",
+				"Intermediary between clients, developers, users, management, and information technology (IT)."
+			]
+		},
+		{
+			"company": "Fortis Lafemme Hospitals",
+			"position": "Operations Manager",
+			"website": "http://www.fortislafemme.in/bengaluru/",
+			"startDate": "2015-07-01",
+			"endDate": "2016-08-24",
+			"summary": "Fortis La Femme is India's leading healthcare provider for all stages of a woman's lifespan. Fortis La Femme is known for giving distinctive care through the range of services like Out patient, Emergency Services 24*7, Pharmacy, Preventive health check, Radiology, Blood storage bank, Medical ICU, Tertiary level 3 NICU and PICU.",
+			"highlights": [
+				"Implementing strategic operations and quality policies ensuring patients' safety.",
+				"Managing medical & non-medical staff and monitor daily operations of the facility.",
+				"Collect and analyze data to recognise trends and predict future logistical needs. "
+			]
+		},
+		{
+			"company": "Global Hospitals",
+			"position": "Staff Nurse",
+			"website": "https://www.gleneaglesglobalhospitals.com/best-hospital-in-hyderabad/lkp-about-us",
+			"startDate": "2012-09-12",
+			"endDate": "2014-03-15",
+			"summary": "Global Hospitals, was the first Gleneagles Global Hospitals facility opened in Hyderabad. The facility has been the forefront of several medical advances in the field of multi-organ transplants. It is known as one of the best tertiary care multi-super specialty hospitals in India.",
+			"highlights": [
+				"Help diagnosing and treating disease conditions by providing support to physicians.",
+				"Coordinating with physicians and other healthcare professionals for creating and evaluating customized care plans.",
+				"Maintain inventory of ordered medical supplies, direction and supervision of nurse aides and home health aides."
+			]
+		},
+		{
+			"company": "Princess Esra Hospital",
+			"position": "Staff Nurse",
+			"website": "http://owaisihospital.com/",
+			"startDate": "2011-03-01",
+			"endDate": "2012-05-31",
+			"summary": "Princess Esra Hospital, managed by Owaisi Hospital & Research Centre attached with the Deccan College of Medical Sciences, provide effective and advance health care of the high equality to all segments of society, irrespective of their economic status.",
+			"highlights": [
+				"Assessing, observing and recording patient vital signs",
+				"Assisting physicians in performing procedures, administering intravenous fluids and medications",
+				"Ensuring proper functioning of ventilators, monitors and other medical equipment. Responding to life-saving situations, using nursing standards and protocols for treatment"
+			]
+		}
+	],
+	"education": [{
+			"institution": "IIIT - Bangalore",
+			"area": "Data Science",
+			"studyType": "PG - Diploma",
+			"startDate": "2018-06-01",
+			"endDate": "2018-11-25",
+			"gpa": "3.0/4.0",
+			"courses": [
+				"DB1101 - Data Management",
+				"CS2011 - Exploratory Data Analysis",
+				"CS2011 - Predictive Data Analysis"
+			]
+		},
+		{
+			"institution": "Osmania University",
+			"area": "Hospital Management",
+			"studyType": "MBA",
+			"startDate": "2013-06-01",
+			"endDate": "2015-05-15",
+			"gpa": "4.0"
+		},
+		{
+			"institution": "Dr. N.T.R University of Health Sciences",
+			"area": "Nursing",
+			"studyType": "Bachelors",
+			"startDate": "2006-09-01",
+			"endDate": "2010-12-15",
+			"gpa": "4.0"
+		}
+	],
+	"skills": [{
+			"name": "Analysis",
+			"level": "Master",
+			"keywords": [
+				"Business Analysis",
+				"System Analysis",
+				"Data Analysis"
+			]
+		},
+		{
+			"name": "Programming",
+			"level": "Master",
+			"keywords": [
+				"R Language",
+				"SQL",
+				"Python"
+			]
+		}
+	],
+	"languages": [{
+		"language": "English",
+		"fluency": "Fluent"
+	}],
+	"interests": [{
+		"name": "Road Trips",
+		"keywords": [
+			"Royal Enfield",
+			"Avenger"
+		]
+	}]
+}
